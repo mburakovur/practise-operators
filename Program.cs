@@ -44,7 +44,7 @@ Console.WriteLine("*-*-*-*Atama Ve İşlemler");
         sonuc = a!=b ;
         Console.WriteLine(sonuc);
         // matematiksel operatorler 
-        // / , * , - , + ,
+        // / , * , - , + 
         Console.WriteLine("*-*-*-*Matematiksel Operatorler");
 
         int sayi1   = 10 ; 
